@@ -1,0 +1,24 @@
+body {
+  width: 1500px;
+  background-color: #f2f2f2;
+  margin: auto;
+}
+.container {
+  overflow: hidden;
+}
+/* Nav */
+.nav-container {
+  width: 1500px;
+  height: 100px;
+  background-color: #fff;
+  display: flex;
+}
+.nav-container-title {
+  width: 650px;
+  width: 90px;
+  display: flex;
+}
+.nav-logo {
+  width: 108.48px;
+  height: 90px;
+}
